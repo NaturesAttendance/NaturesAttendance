@@ -185,27 +185,3 @@ Of those, the pygmy sloth is critically endangered and the maned sloth is vulner
 - HABITATS Rain Forest
 
 ![Image](https://c402277.ssl.cf1.rackcdn.com/photos/6520/images/portrait_overview/iStock_000016816803XLarge_mini.jpg?1394631384)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
